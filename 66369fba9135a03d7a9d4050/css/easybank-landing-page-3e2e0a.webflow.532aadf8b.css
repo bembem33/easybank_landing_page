@@ -2578,6 +2578,7 @@ textarea.w-input, textarea.w-select {
 
   .heading {
     margin-top: 100px;
+    padding-top: 120px;
     padding-left: 60px;
     padding-right: 60px;
   }
